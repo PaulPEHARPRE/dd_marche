@@ -1,0 +1,8 @@
+# pnpm-workspace.yaml
+packages:
+  # executable/launchable frontend
+  - 'frontend/*'
+   # executable/launchable backend
+  - 'backend/*'
+  # all shared components
+  - 'shared/*'
